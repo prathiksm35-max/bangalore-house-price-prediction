@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/prathiksm35-max/bangalore-house-price-prediction/blob/main/house_price.ipynb)
+
 # 🏠 Bangalore House Price Prediction
 
 ## Overview
